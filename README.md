@@ -175,8 +175,7 @@ This project demonstrates practical experience with:
 
 ## 📖 About TodoMVC
 
-TodoMVC is a standardized todo application implemented using multiple JavaScript frameworks, allowing developers to compare framework implementations and testing approaches. The React version used in this project follows the common TodoMVC specification. :chatgpt-content-reference{index="1"}
-
+TodoMVC is a standardized todo application implemented using multiple JavaScript frameworks, allowing developers to compare framework implementations and testing approaches. The React version used in this project follows the common TodoMVC specification. 
 ---
 
 ## 👨‍💻 Author
