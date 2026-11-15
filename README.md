@@ -2,8 +2,7 @@
 
 This project automates the **React TodoMVC** application using **Microsoft Playwright**. The automation suite validates the core functionality of the Todo application by performing end-to-end user interactions and verifying the expected behavior.
 
-**Application Under Test:** https://todomvc.com/examples/react/dist/#/ :chatgpt-content-reference{index="0"}
-
+**Application Under Test:** https://todomvc.com/examples/react/dist/
 ---
 
 ## 🚀 Tech Stack
